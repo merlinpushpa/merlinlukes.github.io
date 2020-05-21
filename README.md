@@ -1,5 +1,2 @@
 # merlinlukes.github.io
-index.html
-all: README.md
-README.md
-echo "# Guessing game of unix workbench" >README.md
+* the make file was run at: $(shell date '+%Y-%M-%D:%H:%M:%S') 
